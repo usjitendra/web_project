@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 18 Apr 2024 11:27:54 at https://owlio.dexignzone.com/laravel/demo/student +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://owlio.dexignzone.com/laravel/demo/student -O1 "F:\new_web\jitendra_project" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:27:58	Warning: 	Found for https://owlio.dexignzone.com/robots.txt
+11:27:58	Warning: 	File has moved from https://owlio.dexignzone.com/robots.txt to https://owlio.dexignzone.com/xhtml/page-error-404.html
+11:36:02	Error: 	"Not Found" (404) at link https://owlio.dexignzone.com/laravel/demo/public/images/body/12.jpg (from https://owlio.dexignzone.com/laravel/demo/public/css/style.css)
+11:36:02	Error: 	"Not Found" (404) at link https://owlio.dexignzone.com/laravel/demo/public/images/svg/cd-arrow.svg (from https://owlio.dexignzone.com/laravel/demo/public/css/style.css)
+11:36:02	Error: 	"Method Not Allowed" (405) at link https://owlio.dexignzone.com/laravel/demo/ajax/food-menu-list (from https://owlio.dexignzone.com/laravel/demo/index)
+11:36:12	Error: 	"Not Found" (404) at link https://owlio.dexignzone.com/laravel/demo/public/vendor/chart-js/Chart.bundle.min.js (from https://owlio.dexignzone.com/laravel/demo/chart-flot)
+11:36:34	Warning: 	Warning: store application/octet-stream without scan: F:/new_web/jitendra_project/owlio.dexignzone.com/laravel/demo/public/icons/icomoon/fonts/icomoon.svg
+11:36:34	Warning: 	Moved Permanently for https://owlio.dexignzone.com/laravel/demo/Trident/
+11:36:34	Warning: 	File has moved from https://owlio.dexignzone.com/laravel/demo/Trident/ to https://owlio.dexignzone.com/Trident
+11:36:34	Warning: 	Moved Permanently for https://owlio.dexignzone.com/laravel/demo/Edge/
+11:36:34	Warning: 	File has moved from https://owlio.dexignzone.com/laravel/demo/Edge/ to https://owlio.dexignzone.com/Edge
+11:36:34	Error: 	"Not Found" (404) at link https://owlio.dexignzone.com/laravel/demo/e (from https://owlio.dexignzone.com/laravel/demo/public/vendor/ckeditor/ckeditor.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 40 seconds : 370 links scanned, 362 files written (26368621 bytes overall) [23054803 bytes received at 44336 bytes/sec], 5892006 bytes transferred using HTTP compression in 67 files, ratio 14%, 7.5 requests per connection
+(5 errors, 7 warnings, 0 messages)
