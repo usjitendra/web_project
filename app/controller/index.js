@@ -1,7 +1,7 @@
 module.exports = function (model) {
     const exportedModule = {};
-
-    exportedModule.admin = require('./admin.js')();
+    //   console.log(model)
+    exportedModule.admin = require('./admin.js')(model);
     // console.log("aaaa",exportedModule.admin)
     return exportedModule;
 };
